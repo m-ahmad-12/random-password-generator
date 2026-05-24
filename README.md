@@ -1,6 +1,8 @@
  Random Password Generator
  https://m-ahmad-12.github.io/random-password-generator/
+ 
 A simple password generator built using HTML, CSS, and JavaScript.
+
 
  Features
 
